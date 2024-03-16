@@ -2,8 +2,6 @@ import time
 
 """
 Student Name: Jeremiah Plauche
-GT User ID: jplauch3
-GT ID: 903051398
 """
 
 import random as rand
